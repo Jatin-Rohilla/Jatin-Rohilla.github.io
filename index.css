@@ -175,6 +175,10 @@ nav ul.active {
     margin: 0px 0px 30px 4px;
 
 }
+#img{
+    width:300%;
+    /* padding-top:50px; */
+}
 
 #Home_subdiv1 {
     width: 60%;
@@ -183,11 +187,12 @@ nav ul.active {
 }
 
 #Home_subdiv2 {
-    width: 30%;
+    width: 10%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-top: 75px;
+    padding-top: 135px;
+    padding-right:0px;
 }
 
 #about {
